@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="social_media_id">\@mr_rajput_official</string>
+    <string name="email_id">rajputdevloper@gmail.com</string>
+    <string name="title_role">Android Developer</string>
+    <string name="name">Amit Kumar</string>
+    <string name="contact_number">+91-81267-4800</string>
+</resources>
